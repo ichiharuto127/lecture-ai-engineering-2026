@@ -1,0 +1,16 @@
+timestamp,model,question,run,status,latency_s,input,output,thoughts,total,chars
+2026-10-26T04:30:41,gemini-3.5-flash-lite,short,1,ok,1.508,14,50,0,64,105
+2026-10-26T04:30:47,gemini-3.5-flash-lite,short,2,ok,2.609,14,53,0,67,110
+2026-10-26T04:30:54,gemini-3.5-flash-lite,short,3,ok,1.699,14,56,0,70,116
+2026-10-26T04:31:00,gemini-3.5-flash-lite,course,1,ok,3.48,21,501,0,522,900
+2026-10-26T04:31:08,gemini-3.5-flash-lite,course,2,ok,4.57,21,703,0,724,1325
+2026-10-26T04:31:17,gemini-3.5-flash-lite,course,3,ok,5.092,21,645,0,666,1224
+2026-10-26T04:31:26,gemini-3.5-flash-lite,long,1,ok,2.34,30,516,0,546,996
+2026-10-26T04:31:33,gemini-3.5-flash-lite,long,2,ok,2.166,30,496,0,526,948
+2026-10-26T04:31:40,gemini-3.5-flash-lite,long,3,ok,4.556,30,570,0,600,1069
+2026-10-26T04:44:40,gemini-3.8-flash,short,1,504,118.56,,,,,
+2026-10-26T04:46:52,gemini-3.8-flash,short,2,504,118.528,,,,,
+2026-10-26T04:49:04,gemini-3.8-flash,course,1,503,17.458,,,,,
+2026-10-26T04:49:35,gemini-3.8-flash,course,2,504,118.964,,,,,
+2026-10-26T04:51:47,gemini-3.8-flash,long,1,504,118.906,,,,,
+2026-10-26T04:53:59,gemini-3.8-flash,long,2,504,118.736,,,,,
