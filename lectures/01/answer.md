@@ -15,8 +15,6 @@
 
 ## 宿題
 
-## 宿題
-
 - 取り組んだレベル：発展
 - 使ったモデル：gemini-3.5-flash-lite、gemini-3.8-flash
 
